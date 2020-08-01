@@ -1,0 +1,2 @@
+public class HappyB20 {
+}
